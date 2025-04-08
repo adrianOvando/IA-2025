@@ -1,0 +1,87 @@
+#Patient Identifier	Diagnosis Age	Sex	Serum PSA	Gleason Score Percent 4 & 5	American Joint Committee on Cancer Tumor Stage Code	Cohort
+#Identifier to uniquely specify a patient.	Age at which a condition or disease was first diagnosed.	Sex	Serum PSA.	Gleason Score Percent 4 & 5.	"Code of pathological T (primary tumor) to define the size or contiguous extension of the primary tumor (T), using staging criteria from the American Joint Committee on Cancer (AJCC)."	Cohort.
+#STRING	NUMBER	STRING	NUMBER	NUMBER	STRING	STRING
+#1	1	1	1	1	1	1
+PATIENT_ID	AGE	SEX	SERUM_PSA	PERCENT_GLEASON_PATTERN_4_OR_5	PATH_T_STAGE	COHORT
+P05-620	59	Male	5.8	90	pT3a	Uropath
+P07-144	65	Male	2.7	30	pT3a	Uropath
+P07-5021	58	Male	6.4	0	pT2c	Uropath
+P07-5318	70	Male	6.6	10	pT3a	Uropath
+P07-837	69	Male	7.8	80	pT3a	Uropath
+P08-1541	68	Male	22	80	pT2c	Uropath
+P08-217	59	Male	18.1	2	pT3a	Uropath
+P08-5852	51	Male	12.6	0	pT2c	Uropath
+P08-688	69	Male	12.9	0	pT2c	Uropath
+P08-716	59	Male	4.1	40	pT3a	Uropath
+P09-396	67	Male	6.5	32	pT2c	Uropath
+P09-628	65	Male	5.3	0	pT3b	Uropath
+P09-730	66	Male	6.5	100	pT2c	Uropath
+PR-02-1431	64	Male	7.1	100	pT2a	Uropath
+PR-03-3125	68	Male	10.1	0	pT3a	Uropath
+PR-03-728	54	Male	12.9	10	pT3a	Uropath
+PR-0410	60	Male	4.5	0	pT2c	Uropath
+PR-05-3595	64	Male	7.2	50	pT2c	Uropath
+PR-06-1749	60	Male	6.7	60	pT2c	Uropath
+PR-07-3258	56	Male	4.2	100	pT3a	Uropath
+PR-07-360	57	Male	16.7	100	pT2c	Uropath
+PR-08-4154	58	Male	36	5	pT4 N1	Uropath
+PR-08-556	63	Male	6.7	95	pT3a	Uropath
+PR-09-601	66	Male	5.8	95	pT3a	Uropath
+PR-2525	46	Male	4.7	5	pT2c	WCMC
+PR-2741	73	Male	5	100	pT3a	WCMC
+PR-3042	67	Male	3.3	20	pT2c	WCMC
+PR-STID0000002682	71	Male	7.6	80	pT2c	WCMC
+PR-STID0000003127	55	Male	4.2	2	pT2c	WCMC
+PR-07-4814	54	Male	5.2	100	pT3b N1	Uropath
+P04-1084	65	Male	22	40	pT3a	Uropath
+P07-4941	57	Male	4.1	0	pT2c	Uropath
+P08-492	56	Male	11.4	40	pT2c	Uropath
+PR-08-2153	55	Male	7.8	70	pT3a	Uropath
+PR-08-2455	68	Male	23	100	pT3b	Uropath
+PR-4240	75	Male	NA	NA	Metastatic	WCMC
+P07-5037	68	Male	11	70	pT3a	Uropath
+P01-28	61	Male	14	100	pT3a	Uropath
+P03-1426	69	Male	13.9	60	pT2c	Uropath
+P03-2345	56	Male	7	10	pT2c	Uropath
+P05-2709	55	Male	8	10	pT3a	Uropath
+P05-3852	62	Male	12.5	60	pT3a	Uropath
+P08-1042	66	Male	8.4	10	pT3a	Uropath
+P08-501	63	Male	7.1	0	pT2c	Uropath
+P09-37	76	Male	9	40	pT3b	Uropath
+PR-04-1243	63	Male	7.3	30	pT3a	Uropath
+PR-07-4610	69	Male	5.6	40	pT3a	Uropath
+PR-08-784	52	Male	43.2	80	pT2c	Uropath
+PR-09-146	61	Male	11.3	10	pT3a	Uropath
+PR-09-3983	64	Male	4.5	100	pT3b	Uropath
+PR-STID0000000415	71	Male	7.6	100	pT3a	WCMC
+PR-STID0000002872	62	Male	6	5	pT3a	WCMC
+PR-7520	59	Male	NA	NA	Metastatic	WCMC
+PR-06-3199	54	Male	25	80	pT3a	Uropath
+PR-2621	51	Male	5	2	pT2c	WCMC
+P05-1657	47	Male	9.3	10	pT2b	Uropath
+P09-1042	47	Male	13.7	5	pT3a	Uropath
+PR-05-2709						
+PR-07-360-Normal						
+PR-07-837						
+PR-09-146-Normal						
+PR-06-1749-Normal						
+PR-04-1084						
+PR-04-1243-Normal						
+PR-01-28-Normal						
+PR-03-1426-Normal						
+PR-03-728-Normal						
+PR-05-3852-Normal						
+PR-04-1084-Normal						
+PR-05-2709-Normal						
+PR-02-1431-Normal						
+PR-05-1657-Normal						
+PR-07-144-Normal						
+PR-01-28						
+PR-03-1426						
+PR-03-2345						
+PR-05-3852						
+PR-07-837-Normal						
+PR-05-1657						
+PR-03-2345-Normal						
+PR-05-3595-Normal						
+PR-07-144						
